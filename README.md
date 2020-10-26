@@ -1,4 +1,5 @@
-# my-app
+# vuetify-router-template
+Yet another vuetify with router boilerplate
 
 ## Project setup
 ```
@@ -19,6 +20,10 @@ yarn build
 ```
 yarn lint
 ```
+
+### Todo
+- [x] Init
+- [ ] Style Navigation Drawer
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
